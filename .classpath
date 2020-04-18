@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_181]"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/anujghadge/Downloads/Dependencies/json-20190722.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
